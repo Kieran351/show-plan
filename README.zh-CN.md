@@ -11,3 +11,21 @@
 ```sh
 npx skills add Kieran351/show-plan
 ```
+
+## 更新
+
+按提示选择需要更新的安装范围：
+
+```sh
+npx skills update show-plan
+```
+
+## 卸载
+
+卸载全局安装：
+
+```sh
+npx skills remove show-plan -g
+```
+
+如果是项目安装，请在对应项目目录执行，并去掉 `-g`。

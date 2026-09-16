@@ -11,3 +11,21 @@ Requires Node.js 22.20+ and Git. Follow the prompts to choose your coding agent 
 ```sh
 npx skills add Kieran351/show-plan
 ```
+
+## Update
+
+Follow the prompts to choose the installation scope to update:
+
+```sh
+npx skills update show-plan
+```
+
+## Uninstall
+
+Remove the global installation:
+
+```sh
+npx skills remove show-plan -g
+```
+
+For a project installation, run the command in that project directory without `-g`.
