@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Preview code changes before implementation: inspect the workspace without editing files, show affected files and locations with exact **before / after** code (plus a unified **diff** for every change except pure additions or deletions), then stop for review. Changes are listed in reading order, with definitions before their uses, including within each ticket when the plan is split into tickets. Manually invoked; explanations are in Simplified Chinese.
+Preview code changes before implementation: inspect the workspace without editing files, show affected files and locations with exact **before / after** code (plus a unified **diff** for every change except pure additions or deletions), then stop for review. The plan opens with a short statement (up to three sentences) of the user's goal and the problem being solved, so you can confirm the agent understood before reviewing the changes. Changes are listed in reading order, with definitions before their uses, including within each ticket when the plan is split into tickets. Manually invoked; explanations are in Simplified Chinese.
 
 ## Install
 
